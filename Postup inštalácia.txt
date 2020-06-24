@@ -1,0 +1,10 @@
+1. - stiahnuť obsah repozitáru vo formáte .zip.ň
+2. - odzipovať súbor a extrahovať obsah do ľubovoľnej zložky
+3. - otvoriť zložku angularFirebaseTest2 v ľubovoľnom programe určenom na editáciu kódu (Visual Studio Code, Atom etc...)
+4. - prejsť na terminál
+5. - do treminálu vpísať príkaz "npm install -g @angular/cli" následne dať npm install na poradí nezáleží
+6. - potom ztreba zadať npm install firebase 
+7. - ak to všetko prebehne stačí do terminálu zadať ng serve 
+8. - stránka bude počúvať na adrese http://localhost:4200/login
+9. - stránka je pripravená na použitie.
+  
